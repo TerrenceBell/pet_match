@@ -34,7 +34,7 @@ end
     pet = Pet.all[input.to_i-1]
     about_this_pet(pet)
   end 
-  puts "Do you feel like your home is the right fit for #{Pet.name}?"
+  puts "Do you feel like your home is the right fit for #{pet.name}?"
   puts "Enter Y or N"
     answer = gets.strip.downcase
   if answer == "y"
