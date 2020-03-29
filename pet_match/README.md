@@ -1,8 +1,8 @@
 # PetMatch
 
-Pet Match is an easy way to find a new addition to your family!
+Pet Match is an easy way to find a new addition to your family! You will find that it is a simple process to see what animals are available, find more information about them and a contact number to set up a visit. This app is limit in functionality at its current stage but I will continue to make adjustments. 
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
@@ -14,7 +14,7 @@ gem 'pet_match'
 
 And then execute:
 
-    $ bundle
+    ./bin/pet_match
 
 Or install it yourself as:
 
