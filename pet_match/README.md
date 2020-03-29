@@ -20,9 +20,6 @@ Or install it yourself as:
 
     $ gem install pet_match
 
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
